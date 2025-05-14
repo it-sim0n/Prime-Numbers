@@ -13,4 +13,4 @@ This Python program is a command-line utility for working with **prime numbers**
 Run the script using Python 3:
 
 ```bash
-python prime_program.py
+python3 prime_program.py
